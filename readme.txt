@@ -1,1 +1,1 @@
-this is the repository for all mu fullstack exercises!
+this is the repository for all my fullstack exercises!
